@@ -1,34 +1,34 @@
 [
     {
-        "title": "ambient_calm",
+        "title": "Calm",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_calm.mp3"
     },
     {
-        "title": "ambient_PianoRelaxing",
+        "title": "RelaxingPiano",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_PianoRelaxing.mp3"
     },
     {
-        "title": "ambient_relaxing_rain",
+        "title": "RelaxingRain",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_relaxing_rain.mp3"
     },
     {
-        "title": "ambient_romantic",
+        "title": "Romantic",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_romantic.mp3"
     },
     {
-        "title": "ambient_space_cinematic",
+        "title": "SpaceCinematic",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_space_cinematic.mp3"
     },
     {
-        "title": "ambient_tension",
+        "title": "Tension",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_tension.mp3"
     },
     {
-        "title": "ambient_textural",
+        "title": "Textural",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_textural.mp3"
     },
     {
-        "title": "ambient_tunetank_space",
+        "title": "TunetankSpace",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_tunetank_space.mp3"
     }
 ]
