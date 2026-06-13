@@ -1,34 +1,38 @@
 [
-  {
-    "title": "Soundtrap Main Studio & Music Makers",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
-  },
-  {
-    "title": "Soundtrap Originals Music Loops",
-    "url": "https://www.soundtrap.com/originals"
-  },
-  {
-    "title": "Acoustic Pop 23 Sound Pack",
-    "url": "https://www.soundtrap.com/content/originals/sound-pack-23"
-  },
-  {
-    "title": "Crate Pianos LoFi Sound Pack",
-    "url": "https://www.soundtrap.com/content/originals/sound-pack-crate-pianos"
-  },
-  {
-    "title": "Fluid Liquid Drum and Bass Loops",
-    "url": "https://www.soundtrap.com/content/originals/fluid-drum-and-bass"
-  },
-  {
-    "title": "Soundtrap Free Vocal Recorder",
-    "url": "https://www.soundtrap.com/content/product/record-voice-online"
-  },
-  {
-    "title": "Soundtrap Online DAW Features",
-    "url": "https://www.soundtrap.com/content/product/online-daw-features"
-  },
-  {
-    "title": "Soundtrap Online Piano Roll",
-    "url": "https://www.soundtrap.com/content/product/online-piano-roll"
-  }
+    {
+        "title": "Soundtrap Main Studio & Music Makers",
+        "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    {
+        "title": "ambient_calm",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_calm.mp3"
+    },
+    {
+        "title": "ambient_PianoRelaxing",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_PianoRelaxing.mp3"
+    },
+    {
+        "title": "ambient_relaxing_rain",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_relaxing_rain.mp3"
+    },
+    {
+        "title": "ambient_romantic",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_romantic.mp3"
+    },
+    {
+        "title": "ambient_space_cinematic",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_space_cinematic.mp3"
+    },
+    {
+        "title": "ambient_tension",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_tension.mp3"
+    },
+    {
+        "title": "ambient_textural",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_textural.mp3"
+    },
+    {
+        "title": "ambient_tunetank_space",
+        "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_tunetank_space.mp3"
+    },
 ]
