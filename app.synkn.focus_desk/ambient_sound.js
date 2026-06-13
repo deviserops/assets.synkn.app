@@ -1,9 +1,5 @@
 [
     {
-        "title": "Soundtrap Main Studio & Music Makers",
-        "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
-    },
-    {
         "title": "ambient_calm",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_calm.mp3"
     },
@@ -34,5 +30,5 @@
     {
         "title": "ambient_tunetank_space",
         "url": "https://assets.synkn.app/app.synkn.focus_desk/music_library/ambient_tunetank_space.mp3"
-    },
+    }
 ]
