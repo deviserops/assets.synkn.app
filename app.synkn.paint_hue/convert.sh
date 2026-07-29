@@ -1,22 +1,22 @@
 #!/bin/bash
 
 
-for i in $(seq 100 200); do
+for i in $(seq 1 16); do
 
     # First convert to png
-    svg="game/image_${i}/image_${i}.svg"
-    out="game/image_${i}/image_${i}.png"
+    # svg="game/image_${i}/image_${i}.svg"
+    # out="game/image_${i}/image_${i}.png"
 
     # replace 1000 with small size png image just for view , increase to high quality png and decrease for low quality image
-    /usr/bin/inkscape "$svg" --export-type=png --export-width=1000 --export-filename="$out"
+    # /usr/bin/inkscape "$svg" --export-type=png --export-width=1000 --export-filename="$out"
 
 
    # once done convert this png to jpg for smaller size
-   jpg_out="game/image_${i}/image_${i}.jpg"
-   convert "$out" "$jpg_out"
+   # jpg_out="game/image_${i}/image_${i}.jpg"
+   # convert "$out" "$jpg_out"
 
    # then remove the png images.
 
-   rm "$out"
+   # rm "$out"
 
 done
