@@ -1,43 +1,211 @@
 {
   "9949748746d0c69c2b885623": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_1/image_1.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_1/image_1.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_1/image_1.svg",
+    "colors": [
+      "#87CEEB",
+      "#FFFFFF",
+      "#FFD54F",
+      "#F4C430",
+      "#A97142",
+      "#66BB44",
+      "#7CB342",
+      "#8BC34A",
+      "#F44336",
+      "#FB8C00",
+      "#9575CD",
+      "#BDBDBD",
+      "#222222",
+      "#111111"
+    ]
   },
   "9949748746d0c69c2b885624": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_2/image_2.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_2/image_2.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_2/image_2.svg",
+    "colors": [
+      "#87CEEB",
+      "#F4A142",
+      "#4CAF50",
+      "#8BC34A",
+      "#FFFFFF",
+      "#D3D3D3",
+      "#FFC1CC",
+      "#A5D6A7",
+      "#8D6E63",
+      "#9E9E9E",
+      "#222222"
+    ]
   },
   "9949748746d0c69c2b885625": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_3/image_3.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_3/image_3.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_3/image_3.svg",
+    "colors": [
+      "#7EC850",
+      "#4CAF50",
+      "#2E7D32",
+      "#8D6E63",
+      "#C49A6C",
+      "#D8B26E",
+      "#9CCC65",
+      "#81D4FA",
+      "#F2C94C",
+      "#8BC34A",
+      "#BDBDBD",
+      "#8E8E8E",
+      "#F5F5F5",
+      "#4E342E",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885626": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_4/image_4.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_4/image_4.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_4/image_4.svg",
+    "colors": [
+      "#0D1B52",
+      "#87CEFA",
+      "#FFFFFF",
+      "#F4C542",
+      "#F9A825",
+      "#4CAF50",
+      "#8BC34A",
+      "#F06292",
+      "#BDBDBD",
+      "#8D6E63",
+      "#5D4037",
+      "#42A5F5",
+      "#1565C0",
+      "#FF7043",
+      "#6D4C41",
+      "#FFE0B2",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885627": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_5/image_5.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_5/image_5.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_5/image_5.svg",
+    "colors": [
+      "#2196F3",
+      "#81D4FA",
+      "#26C6DA",
+      "#4DD0E1",
+      "#EC6CB9",
+      "#8E24AA",
+      "#FFD54F",
+      "#F9A825",
+      "#FFE0B2",
+      "#FF80AB",
+      "#00BFA5",
+      "#26A69A",
+      "#7CB342",
+      "#8BC34A",
+      "#FFA726",
+      "#F57C00",
+      "#9575CD",
+      "#B39DDB",
+      "#BDBDBD",
+      "#A1887F",
+      "#FFFFFF",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885628": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_6/image_6.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_6/image_6.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_6/image_6.svg",
+    "colors": [
+      "#87CEEB",
+      "#8BC34A",
+      "#4CAF50",
+      "#FDD835",
+      "#AB47BC",
+      "#EC407A",
+      "#42A5F5",
+      "#FFD54F",
+      "#D7A86E",
+      "#A66A3F",
+      "#FF8A80",
+      "#7E57C2",
+      "#8D6E63",
+      "#FFFFFF",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885629": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_7/image_7.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_7/image_7.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_7/image_7.svg",
+    "colors": [
+      "#87CEEB",
+      "#90CAF9",
+      "#81C784",
+      "#4CAF50",
+      "#8D6E63",
+      "#D4A373",
+      "#F9D65C",
+      "#E6B85C",
+      "#FFE0B2",
+      "#FFB6C1",
+      "#FFFFFF",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885630": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_8/image_8.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_8/image_8.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_8/image_8.svg",
+    "colors": [
+      "#2DA8FF",
+      "#FFD600",
+      "#FFFFFF",
+      "#F8BBD0",
+      "#FF9800",
+      "#43A047",
+      "#8BC34A",
+      "#A5D6A7",
+      "#7CB342",
+      "#C8E65A",
+      "#8D6E63",
+      "#6D4C41",
+      "#795548",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885631": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_9/image_9.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_9/image_9.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_9/image_9.svg",
+    "colors": [
+      "#1E3A8A",
+      "#4FC3F7",
+      "#66BB6A",
+      "#FFD93D",
+      "#FF9800",
+      "#FF8FB1",
+      "#FFFFFF",
+      "#E3F2FD",
+      "#FFF176",
+      "#B388FF",
+      "#FF6FB5",
+      "#26C6DA",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885632": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_10/image_10.jpg",
-    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_10/image_10.svg"
+    "draw_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_10/image_10.svg",
+    "colors": [
+      "#6DBE45",
+      "#8BCF4A",
+      "#4E9F3D",
+      "#F06292",
+      "#FFD54F",
+      "#FFB74D",
+      "#FF8A65",
+      "#9575CD",
+      "#BA68C8",
+      "#26A69A",
+      "#81C784",
+      "#29B6F6",
+      "#81D4FA",
+      "#FFFFFF",
+      "#212121"
+    ]
   },
   "9949748746d0c69c2b885633": {
     "main_image": "https://assets.synkn.app/app.synkn.paint_hue/game/image_11/image_11.jpg",
