@@ -1,0 +1,195 @@
+Add 2-3 Example Image, then this prompt
+
+==================
+
+
+hi  I need some icon image to display in the flutter app. Can you create the images of the icon related to salon business.  I will provide you the name.  These images should be illustration or simple image to identify the category.  I need the category images. I will provide the categores one by one and you can create image for each. okay ?
+
+Yes, absolutely. 👍
+
+Send me the **category name one by one**, and I’ll create a **simple salon-themed icon illustration** for each category, suitable for displaying in a Flutter app.
+
+I’ll keep the style consistent across all icons:
+
+- Clean, simple illustration
+- Easy to recognize at small size
+- Salon/beauty themed
+- Minimal details
+- No unnecessary text
+- Suitable for app category cards
+- Consistent visual style between all categories
+
+Just send the **first category name**.
+
+Got it. 👍
+
+From now on, for each category you provide:
+
+- **Square format**
+- **No circular frame**
+- **No rounded corners**
+- **No circular badge**
+- Clean salon-related illustration
+- The subject should fill the square appropriately
+- You will handle the rounded/circular presentation in Flutter
+- Keep the visual style consistent across all category icons
+
+Send me the next **category name + category type**. 🎨
+
+Yes. Let's reset the image-generation rules and use one consistent specification for **all salon category icons**.
+
+### Image specification
+
+**Format**
+
+- Square: **1:1**
+- High resolution
+- Full-bleed composition
+- **No empty/gap space around the subject**
+- Subject can touch or extend naturally to the image edges
+- No circular or rounded container
+
+**Style**
+
+- Clean modern **vector/illustration style**
+- Simple enough to recognize as a Flutter app category icon
+- Attractive salon/beauty aesthetic
+- Smooth, clean outlines
+- Soft but clear colors
+- Minimal background
+- No unnecessary decorative elements
+
+**Category representation**
+ For each category, the illustration should **visually communicate the service itself**.
+
+For example, for:
+
+`Hair Cutting`
+ `Hair Services`
+
+I would create:
+
+> A woman receiving a haircut in a salon. A stylist's hands are visible using a **comb and scissors** to trim her hair. The woman is wearing a salon cape. The haircut action is the main focus, with the hair, scissors, and comb clearly visible.
+
+**Things I will NOT add**
+
+- ❌ Circular border
+- ❌ Rounded frame
+- ❌ Badge
+- ❌ Text or category name
+- ❌ Large empty margins
+- ❌ Unrelated salon objects
+- ❌ Excessive background decoration
+- ❌ Shadows extending outside the image
+
+**Important:** The artwork itself should occupy the square canvas properly, so when you put it inside a Flutter `ClipRRect`, `CircleAvatar`, `BoxDecoration`, etc., **you control the final shape**.
+
+If this specification looks right, say **"yes"**, and I'll use this as the standard for every category you send.
+
+Yes, now I understand exactly what you mean. 👍
+
+The **gap should exist**, but it should **not visually appear as a separate gap**.
+
+### Updated image rule
+
+- **Square 1:1**
+- Small safe margin around the complete illustration
+- Nothing gets cropped
+- The background color should **continue naturally into the margin**
+- No white strip around the artwork
+- No visible border or frame
+- No hard edge where the artwork ends
+- Objects near the edge, such as the **hand, hair, cape, etc.**, should have natural blending
+- The background should feel like one continuous canvas
+- No circular/rounded frame
+- No text
+
+For example, if the main background is a soft cream color:
+
+```
+┌──────────────────────┐
+```
+
+│  cream background    │
+
+│    ┌────────────┐    │
+
+│    │ illustration│   │
+
+│    │             │   │
+
+│    └────────────┘    │
+
+│  cream background    │
+
+└──────────────────────┘
+
+But visually there should **not be a visible rectangle around the illustration**. The cream background continues seamlessly through the entire square.
+
+And yes, the **hand in the previous Hair Cutting image** is a good example of what you're describing. If an element approaches the edge, its surrounding area should blend naturally rather than suddenly ending against a different-colored margin.
+
+I'll use **this as the final standard** for the category images going forward.
+
+I don't want the collection to become **"same woman + same hands + same angle, but with a different tool"**. 😄
+
+From now on:
+
+### 🎨 Variety between categories
+
+Each icon will have its **own composition and visual concept**.
+
+For example:
+
+- **Hair Cutting** → stylist using scissors and comb
+- **Hair Styling** → blow dryer + round brush with flowing styled hair
+- **Hair Coloring** → color bowl + brush applying full color
+- **Hair Highlighting** → close-up of individual highlighted strands/foils
+- **Hair Straightening** → flat iron creating sleek straight hair
+- **Hair Curling** → curling iron creating curls
+- **Hair Wash** → person at a salon wash basin
+- **Hair Spa** → relaxing treatment with hair mask/oil
+- **Hair Treatment** → treatment/product-focused composition
+- **Bridal Hairstyle** → elegant updo from a different viewpoint
+
+### The collection will still share
+
+- Square 1:1 format
+- Small natural margin
+- No cropping
+- Background blended seamlessly into the margin
+- No circular/rounded frame
+- No text
+- Clean, high-quality illustration
+- Easy to recognize as a Flutter category icon
+
+But **the actual scene, composition, person, angle, tools, hairstyle, and visual focus can change from icon to icon**.
+
+I'll treat each category as a **new illustration**, not a variation of the previous one
+
+\==========
+ read this chat and understand what should be output and I am also adding some reference for your understanding.
+
+Yes, I’ve read and understood the entire conversation and the three reference images. 👍
+
+I’ll follow this **final standard** for every category you send:
+
+- **1:1 square image**
+- Clean, modern **salon/beauty illustration**
+- Each category gets a **unique scene/composition**
+- The illustration clearly communicates the **specific service**
+- Different people, poses, camera angles, tools, and compositions where appropriate
+- **No text or category labels**
+- **No circular frame, badge, border, or rounded container**
+- Small, natural safe margin so nothing important is cropped
+- The background continues seamlessly into that margin
+- No visible rectangular boundary around the artwork
+- Minimal, elegant background
+- Subject remains clear even at small Flutter-app icon sizes
+- Consistent overall visual language across the collection
+- Avoid repetitive **“same woman + same pose + different tool”** imagery
+
+The references are for understanding the **quality, salon context, illustration treatment, composition, and visual clarity**—not for copying the exact scenes.
+
+Most importantly, I'll design each image around the **meaning of the category**, so someone can identify the service just by looking at the icon.
+
+**Send me the first category name whenever you're ready.**
