@@ -1,0 +1,6 @@
+.pkg-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 18px; }
+.pkg h3 { font-size: 17px; margin-bottom: 4px; }
+.pkg .meta { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+.pkg ul { list-style: none; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; font-size: 14px; }
+.pkg li::before { content: "✓"; color: var(--sage); font-weight: 700; margin-right: 8px; }
+.pkg .price { font-size: 22px; font-weight: 700; color: var(--primary); }
