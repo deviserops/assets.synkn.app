@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-for i in $(seq 48 75); do
+for i in $(seq 76 99); do
 
     # First convert to png
     # svg="game/image_${i}/image_${i}.svg"
